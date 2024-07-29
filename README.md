@@ -1,8 +1,6 @@
 # Syringe-Design
 Syringe Design using SOLIDWORKS
-Sure, here's the English version of the text for the ReadMe:
-
-
+ 
 This project involves the design of a medical syringe using SolidWorks software. The goal of this project is to create a complete 3D model of a syringe with standard capabilities.
 
 
